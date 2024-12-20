@@ -2,7 +2,7 @@
 
 ### Descripción
 
-Este proyecto analiza los datos de deforestación en el departamento de Chocó, Colombia, entre los años 2014 y 2021. Utilizando **Python** , junto con bibliotecas **pandas** y **matplotlib**, se procesaron los datos para visualizarlos gráficamente. Además, se usó **geopandas** para extraer los límites geográficos del área, obtenidos de la página [geojson.io](https://www.geojson.io/).
+Este proyecto analiza los datos de deforestación en el departamento de Chocó, Colombia, entre los años 2014 y 2021. Utilizando **Python** , junto con bibliotecas **pandas** y **matplotlib**, se procesaron los datos para visualizarlos gráficamente. Además, se usó **geopandas** para extraer los límites geográficos del área, obtenidos de la página [geojson.io](https://geojson.io/#map=2/0/20).
 
 El objetivo principal fue representar el avance de los reportes de deforestación y analizar las causas principales y los municipios más afectados por este problema.
 
@@ -14,4 +14,4 @@ El Chocó, una región rica en biodiversidad, enfrenta una grave pérdida de su 
 
 El análisis revela que las principales causas de la deforestación en el Chocó son los incendios, la minería y los cultivos. La minería predomina en la zona sur del departamento, mientras que los cultivos impactan tanto el norte como el sur. Los datos son alarmantes: la agricultura ha eliminado alrededor de 2019 hectáreas, mientras que la minería 1380 hectáreas tan solo en el 2021. Los municipios más afectados incluyen Riosucio, Unguía y El Cantón del San Pablo, situándose en las zonas de mayor impacto por esta problemática ambiental.
 
-Los datos fueron tomados de la página de [Datos del gobierno de Colombia](https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/AREAS-DEFORESTADAS-CHOCO/iczg-dyt3/about_data) que contiene bases de datos de distintas categorías.git
+Los datos fueron tomados de la página de [Datos del gobierno de Colombia](https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/AREAS-DEFORESTADAS-CHOCO/iczg-dyt3/about_data) que contiene bases de datos de distintas categorías.
